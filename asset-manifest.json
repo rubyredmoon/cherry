@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rubyredmoon/cherryblue.io/static/css/main.d1b05096.chunk.css",
-    "main.js": "/rubyredmoon/cherryblue.io/static/js/main.0251df2a.chunk.js",
-    "main.js.map": "/rubyredmoon/cherryblue.io/static/js/main.0251df2a.chunk.js.map",
-    "runtime-main.js": "/rubyredmoon/cherryblue.io/static/js/runtime-main.31f7598c.js",
-    "runtime-main.js.map": "/rubyredmoon/cherryblue.io/static/js/runtime-main.31f7598c.js.map",
-    "static/js/2.155a1a15.chunk.js": "/rubyredmoon/cherryblue.io/static/js/2.155a1a15.chunk.js",
-    "static/js/2.155a1a15.chunk.js.map": "/rubyredmoon/cherryblue.io/static/js/2.155a1a15.chunk.js.map",
-    "index.html": "/rubyredmoon/cherryblue.io/index.html",
-    "precache-manifest.e48789fa7ee9ae25d4af758efcf324d4.js": "/rubyredmoon/cherryblue.io/precache-manifest.e48789fa7ee9ae25d4af758efcf324d4.js",
-    "service-worker.js": "/rubyredmoon/cherryblue.io/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/rubyredmoon/cherryblue.io/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.155a1a15.chunk.js.LICENSE.txt": "/rubyredmoon/cherryblue.io/static/js/2.155a1a15.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/rubyredmoon/cherryblue.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/rubyredmoon/cherryblue.io/cherry/static/css/main.d1b05096.chunk.css",
+    "main.js": "/rubyredmoon/cherryblue.io/cherry/static/js/main.02ee7430.chunk.js",
+    "main.js.map": "/rubyredmoon/cherryblue.io/cherry/static/js/main.02ee7430.chunk.js.map",
+    "runtime-main.js": "/rubyredmoon/cherryblue.io/cherry/static/js/runtime-main.2f2c09f1.js",
+    "runtime-main.js.map": "/rubyredmoon/cherryblue.io/cherry/static/js/runtime-main.2f2c09f1.js.map",
+    "static/js/2.155a1a15.chunk.js": "/rubyredmoon/cherryblue.io/cherry/static/js/2.155a1a15.chunk.js",
+    "static/js/2.155a1a15.chunk.js.map": "/rubyredmoon/cherryblue.io/cherry/static/js/2.155a1a15.chunk.js.map",
+    "index.html": "/rubyredmoon/cherryblue.io/cherry/index.html",
+    "precache-manifest.aee474154242920350d6745a024517a1.js": "/rubyredmoon/cherryblue.io/cherry/precache-manifest.aee474154242920350d6745a024517a1.js",
+    "service-worker.js": "/rubyredmoon/cherryblue.io/cherry/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/rubyredmoon/cherryblue.io/cherry/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.155a1a15.chunk.js.LICENSE.txt": "/rubyredmoon/cherryblue.io/cherry/static/js/2.155a1a15.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rubyredmoon/cherryblue.io/cherry/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.31f7598c.js",
+    "static/js/runtime-main.2f2c09f1.js",
     "static/js/2.155a1a15.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.0251df2a.chunk.js"
+    "static/js/main.02ee7430.chunk.js"
   ]
 }
