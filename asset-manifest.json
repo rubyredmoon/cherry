@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rubyredmoon/cherrybluemoon.io/cherry/static/css/main.d1b05096.chunk.css",
+    "main.js": "/rubyredmoon/cherrybluemoon.io/cherry/static/js/main.f8c5b6fe.chunk.js",
+    "main.js.map": "/rubyredmoon/cherrybluemoon.io/cherry/static/js/main.f8c5b6fe.chunk.js.map",
+    "runtime-main.js": "/rubyredmoon/cherrybluemoon.io/cherry/static/js/runtime-main.dba4b168.js",
+    "runtime-main.js.map": "/rubyredmoon/cherrybluemoon.io/cherry/static/js/runtime-main.dba4b168.js.map",
+    "static/js/2.155a1a15.chunk.js": "/rubyredmoon/cherrybluemoon.io/cherry/static/js/2.155a1a15.chunk.js",
+    "static/js/2.155a1a15.chunk.js.map": "/rubyredmoon/cherrybluemoon.io/cherry/static/js/2.155a1a15.chunk.js.map",
+    "index.html": "/rubyredmoon/cherrybluemoon.io/cherry/index.html",
+    "precache-manifest.0df55dab83b5ac7750560721f9ab2dc5.js": "/rubyredmoon/cherrybluemoon.io/cherry/precache-manifest.0df55dab83b5ac7750560721f9ab2dc5.js",
+    "service-worker.js": "/rubyredmoon/cherrybluemoon.io/cherry/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/rubyredmoon/cherrybluemoon.io/cherry/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.155a1a15.chunk.js.LICENSE.txt": "/rubyredmoon/cherrybluemoon.io/cherry/static/js/2.155a1a15.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rubyredmoon/cherrybluemoon.io/cherry/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dba4b168.js",
+    "static/js/2.155a1a15.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f8c5b6fe.chunk.js"
+  ]
+}
